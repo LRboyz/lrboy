@@ -1,0 +1,104 @@
+{
+  "avatar": {
+    "src": "https://avatars.githubusercontent.com/u/15646325?v=4",
+    "hidden": false
+  },
+  "profile": {
+    "name": "刘锐",
+    "email": "603552916@qq.com",
+    "mobile": "13549128759",
+    "github": "https://github.com/LRboyz",
+    "workExpYear": "2年工作经验",
+    "positionTitle": "前端工程师"
+  },
+  "educationList": [
+    {
+      "edu_time": ["2020.09.01", "2022.07.10"],
+      "school": "广东理工学院",
+      "major": "计算机科学与技术",
+      "academic_degree": "本科"
+    },
+    {
+      "edu_time": ["2017.09.01", "2020.06.10"],
+      "school": "广东创新科技职业学院 ",
+      "major": "计算机应用技术",
+      "academic_degree": "专科"
+    }
+  ],
+  "workExpList": [
+    {
+      "company_name": "东莞市奔络科技有限公司",
+      "department_name": "研发部",
+      "work_time": ["2020.05", "至今"],
+      "work_desc": "前端开发工程师，主要负责参与开发公司内部智能洗手间的多类产品以及公司内部产品后台监控管理系统和低代码平台的开发与维护，主要技术栈为React、Next.js。"
+    },
+    {
+      "company_name": "东莞市秦风科技有限公司",
+      "department_name": "研发部",
+      "work_time": ["2020.6", "2020.9"],
+      "work_desc": "前端开发工程师，主要负责参与开发和维护智能餐厅APP以及餐饮管理系统的开发，主要技术栈为ReactNative、React"
+    },
+    {
+      "company_name": "梅州市天勤网络科技有限公司",
+      "department_name": "产品研发部",
+      "work_time": ["2019.10", "2020.6"],
+      "work_desc": "软件开发实习生，主要负责参与开发公司多类数据分析产品以及数据中台的搭建，以及进行电商平台数据抓取和清洗，主要技术栈为Vue.js、Python。"
+    }
+  ],
+  "skillList": [
+    {
+      "skill_name": "HTML 和 CSS",
+      "skill_desc": "熟悉常见的网页布局以及移动端布局",
+      "skill_level": 89
+    },
+    {
+      "skill_name": "TypeScript / JavaScript",
+      "skill_desc": "熟悉 TypeScript / JavaScript，能独立开发前端应用",
+      "skill_level": 80
+    },
+    {
+      "skill_name": "数据可视化",
+      "skill_desc": "熟悉可视化产品的研发",
+      "skill_level": 70
+    },
+    {
+      "skill_name": "React / Vue / 前端工程化",
+      "skill_desc": "熟悉大型前端项目经验以及Native端项目",
+      "skill_level": 80
+    }
+  ],
+  "projectList": [
+    {
+      "project_name": "智能洗手间平台",
+      "project_role": "前端负责人",
+      "project_time": "2020.06 - 至今",
+      "project_desc": "面向大型建筑的智能洗手间看板产品。提供一站式的卫生间数据分析，让高管高效获取洗手间卫生状况信息，并提升管理效率。",
+      "project_content": "项目从0到1的UI设计和产品开发、测试、部署，主要技术栈为React、Next.js"
+    },
+    {
+      "project_name": "智能洗手间平台后台管理系统",
+      "project_role": "前端负责人",
+      "project_time": "2020.06 - 至今",
+      "project_desc": "主要是对智能洗手间硬件传感器的监控以及对智能洗手间的信息管理和智能洗手间平面图传感器拖拽绘制功能",
+      "project_content": "项目从0到1的UI设计和产品开发、测试、部署, 主要技术栈为React、umi"
+    },
+    {
+      "project_name": "SMARTWAY App",
+      "project_role": "前端开发",
+      "project_time": "2020.06 - 2020.9",
+      "project_desc": "一款智能餐厅App，主要面向厨师以及顾客点餐使用的手机App",
+      "project_content": "主要负责App的点餐功能以及结账功能更，基于ReactNative开发"
+    },
+    {
+      "project_name": "看店宝、多多查",
+      "project_role": "前端开发",
+      "project_time": "2019.10 - 2020.5",
+      "project_desc": "针对淘宝电商的大数据数据分析平台",
+      "project_content": "1、负责电商数据分析平台“多多查”的前端开发\n 2、负责电商数据分析平台“看店宝”的前端开发\n 3、负责抓取电商平台数据，编写后端API"
+    }
+  ],
+  "workList": [],
+  "aboutme": {
+    "aboutme_desc": "😈 能力项：沟通协调能力、执行力驱型前端工程师，热爱研究新技术，两年开发经验，负责过ToB的电商数据分析平台的研发以及企业内部后台管理系统和产品监控系统的研发，对内容管理系统以及可视化图表产品的开发有较为丰富的经验，擅长react+vue.js"
+  }
+}
